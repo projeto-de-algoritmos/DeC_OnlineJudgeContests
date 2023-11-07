@@ -1,30 +1,15 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# D&C_OnlineJudgeContests
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Dividir e Conquistar<br>
 
 ## Alunos
-|Matrícula | Aluno |
+| Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 21/1029620 | Douglas Alves dos Santos |
+| 21/1039297 | Bruno Martins Valério Bomfim |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este repositório é destinado ao armazenamento de exercícios resolvidos em diversas plataformas de juízes online - como Codeforces, SPOJ, Leetcode - acerca de algoritmos do tipo "Dividir e Conquistar"
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
