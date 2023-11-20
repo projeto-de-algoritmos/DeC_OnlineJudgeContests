@@ -5,11 +5,11 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def sortedArrayToBST(self, nums: List[int]) -> Optional[TreeNode]:
+    def constructMaximumBinaryTree(self, nums: List[int]) -> Optional[TreeNode]:
         if not nums: return None
-        middle = len(nums)//2
+        middle = nums.index(max(nums))
         return TreeNode(
             val=nums[middle],
-            left=self.sortedArrayToBST(nums[:middle]),
-            right=self.sortedArrayToBST(nums[middle + 1:])
+            left=self.constructMaximumBinaryTree(nums[:middle]),
+            right=self.constructMaximumBinaryTree(nums[middle+1:])
         )
