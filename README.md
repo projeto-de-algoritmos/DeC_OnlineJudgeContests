@@ -74,7 +74,7 @@ Caso queira testar o código dos exercícios, não é preciso instalar nada, som
 
 
 ## Apresentação
-Foi gravado um vídeo explicando a solução de cada um dos exercícios, segue o [link]()
+Foi gravado um vídeo explicando a solução de cada um dos exercícios, segue o [link](./assets/apresentação.mp4)
 
 OBS.: O vídeo está com a extensão .mp4 e deve ser baixado para que possa ser assistido.
 
