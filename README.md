@@ -27,6 +27,32 @@ Esse exercício envolve o uso de recursão para converter um array ordenado em u
 Esse exercício envolve o uso do algoritmo de merge para encontrar a mediana da junção de dois arrays ordenados.
 [Código](./exercicios/findMedianSortedArrays.cpp)
 
+### [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) (Fácil)
+
+![convert_sorted](assets/convertsortedarray.png)
+
+[Código](./exercicios/convertSortedArrayToBinarySearchTree.py)
+
+### [k Closest Points to the Origin](https://leetcode.com/problems/k-closest-points-to-origin/) (Médio)
+
+![kclosest](assets/kclosestpoints.png)
+
+[Código](./exercicios/kClosestPointsToOrigin.py)
+
+
+### [Maximum Binary Tree](https://leetcode.com/problems/k-closest-points-to-origin/) (Médio)
+
+![maximbt](assets/maximumbinarytree.png)
+
+[Código](./exercicios/maximumBinaryTree.py)
+
+
+### [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) (Difícil)
+
+![mergeksorted](assets/mergeksorted.png)
+
+[Código](./exercicios/mergeKSortedLists.py)
+
 ## Instalação 
 **Linguagem**: xxxxxx<br>
 **Framework**: (caso exista)<br>
