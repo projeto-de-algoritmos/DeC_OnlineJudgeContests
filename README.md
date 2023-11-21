@@ -58,14 +58,14 @@ Esse exercício envolve o uso do algoritmo de merge para encontrar a mediana da 
 
 ![Reverse Pairs](assets/reverse_pairs.png)
 
-Esse exercício envolve o uso do algoritmo de contagem de inversões usando o merge para contar o número de inversões em um array.
+Esse exercício envolve o uso do algoritmo de contagem de inversões usando o merge para contar o número de inversões em um array.<br>
 [Código](./exercicios/reversePairs.cpp)
 
 ### [Convert Sorted Array to Binary Search Tree (C++)](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) (Fácil)
 
 ![Convert Sorted Array to Binary Search Tree](assets/array_to_tree.png)
 
-Esse exercício envolve o uso de recursão para converter um array ordenado em uma árvore binária de busca.
+Esse exercício envolve o uso de recursão para converter um array ordenado em uma árvore binária de busca.<br>
 [Código](./exercicios/sortedArrayToBST.cpp)
 
 ## Instalação/Uso
